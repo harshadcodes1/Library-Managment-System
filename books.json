@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Python Programming",
+        "author": "John"
+    },
+    {
+        "id": 2,
+        "name": "Java Programming",
+        "author": "David"
+    }
+]
